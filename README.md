@@ -1,27 +1,69 @@
-# 💫 About Me:
-Aspiring Full-Stack Developer with a solid foundation in modern web technologies, including React, Node.js, and MongoDB.
+# 🚀 Hi, I'm Ashray Shetty 👋
 
+### 👨‍💻 About Me
+[cite_start]I am an **Aspiring Full-Stack Developer** and Computer Science student at **St Joseph Engineering College** (Class of 2026)[cite: 32]. [cite_start]I specialize in building scalable web applications and specialized 3D medical reconstruction tools[cite: 4, 6, 20].
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ashray_shetty._/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashray-v-shetty-9796162b4/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashrayshetty306@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ashrayshetty001&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ashrayshetty001&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrayshetty001&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ashrayshetty001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ashrayshetty001&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- [cite_start]🎓 **Education**: B.E. in Computer Science & Engineering[cite: 32].
+- [cite_start]🛠️ **Current Focus**: Enhancing full-stack architectures and exploring AI-driven healthcare solutions[cite: 24, 26].
+- [cite_start]☁️ **Internship**: Completed an 8-week Salesforce Developer Virtual Internship[cite: 9, 11, 15].
+- [cite_start]💡 **Interests**: 3D WebGL Rendering, Real-time Communication, and Cloud APIs[cite: 23, 27, 45].
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ashrayshetty001&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/Ashray-V-Shetty-979616264" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/Ashray_shetty/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
+  <a href="mailto:22a21.ashray@sjec.ac.in" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://instagram.com/ashray_shetty._/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
+---
+
+### 🛠 Tech Stack
+**Languages & Databases**
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,js,python,mongodb,mysql,sqlite,postgres)](https://skillicons.dev)
+
+**Frameworks & Tools**
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,flask,fastapi,threejs,tailwind,bootstrap,git,github,postman,aws,vercel)](https://skillicons.dev)
+
+---
+
+### 📊 Performance & Stats
+<p align="center">
+  <img src="https://leetcode.card.workers.dev/Ashray_shetty?theme=dark&font=baloo&extension=null" alt="LeetCode Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashrayshetty001&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrayshetty001&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ashrayshetty001&theme=dark" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏗️ Featured Projects
+
+#### 🦴 [Bone Shape Sculptor](https://github.com/ashrayshetty001) 
+[cite_start]*Medical 3D Reconstruction Platform* [cite: 18]
+- [cite_start]Converts 2D DICOM CT scans into accurate 3D bone models using **Marching Cubes** and **VTK**[cite: 20, 21].
+- [cite_start]**Tech**: React 18, TypeScript, Three.js, Python Flask[cite: 19].
+
+#### 🩺 [Doctor-Chat](https://github.com/ashrayshetty001)
+[cite_start]*Hybrid AI/Live Specialist Healthcare Platform* [cite: 24]
+- [cite_start]Real-time communication system using **Socket.IO** and **Groq AI** for instant medical consultation[cite: 25, 27, 29].
+- [cite_start]**Tech**: Node.js, Express, MongoDB, React[cite: 25].
+
+---
+
+### 🏆 Certifications
+- [cite_start]**Full-Stack Web Development Bootcamp** (Udemy) [cite: 36, 37]
+- [cite_start]**Programming in Modern C++** (NPTEL) [cite: 38, 39]
+- [cite_start]**Salesforce Agentblazer Champion** [cite: 14]
+
+<p align="right">
+  <img src="https://visitcount.itsvg.in/api?id=ashrayshetty001&icon=0&color=0" alt="Visitor Count" />
+</p>
