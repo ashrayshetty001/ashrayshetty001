@@ -1,12 +1,12 @@
 # 🚀 Hi, I'm Ashray Shetty 👋
 
 ### 👨‍💻 About Me
-[cite_start]I am an **Aspiring Full-Stack Developer** and Computer Science student at **St Joseph Engineering College**[cite: 32]. [cite_start]I specialize in building scalable web applications and specialized 3D medical reconstruction tools[cite: 4, 6, 18].
+I am an **Aspiring Full-Stack Developer** and Computer Science student at **St Joseph Engineering College**. I specialize in building scalable web applications and specialized 3D medical reconstruction tools.
 
-- [cite_start]🎓 **Education**: B.E. in Computer Science & Engineering[cite: 32].
-- [cite_start]🛠️ **Current Focus**: Enhancing full-stack architectures and exploring AI-driven healthcare solutions[cite: 4, 24].
-- [cite_start]☁️ **Internship**: Completed an 8-week Salesforce Developer Virtual Internship[cite: 11, 15].
-- [cite_start]💡 **Interests**: 3D WebGL Rendering, Real-time Communication, and Cloud APIs[cite: 23, 27, 45].
+- 🎓 **Education**: B.E. in Computer Science & Engineering.
+- 🛠️ **Current Focus**: Enhancing full-stack architectures and exploring AI-driven healthcare solutions.
+- ☁️ **Internship**: Completed an 8-week Salesforce Developer Virtual Internship.
+- 💡 **Interests**: 3D WebGL Rendering, Real-time Communication, and Cloud APIs.
 
 ---
 
@@ -36,33 +36,33 @@
   
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ashrayshetty001&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ashrayshetty001&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   
   <br/><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrayshetty001&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ashrayshetty001&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
 
 ### 🏗️ Featured Projects
 
-#### [cite_start]🦴 Bone Shape Sculptor [cite: 18]
+#### 🦴 Bone Shape Sculptor
 *Medical 3D Reconstruction Platform*
-- [cite_start]Converts 2D DICOM CT scans into accurate 3D bone models using **Marching Cubes** and **VTK**[cite: 20, 21].
-- [cite_start]**Tech**: React 18, TypeScript, Three.js, Python Flask[cite: 19].
+- Converts 2D DICOM CT scans into accurate 3D bone models using **Marching Cubes** and **VTK**.
+- **Tech**: React 18, TypeScript, Three.js, Python Flask.
 
-#### [cite_start]🩺 Doctor-Chat [cite: 24]
+#### 🩺 Doctor-Chat
 *Hybrid AI/Live Specialist Healthcare Platform*
-- [cite_start]Real-time communication system using **Socket.IO** and **Groq AI** for instant medical consultation[cite: 26, 27, 29].
-- [cite_start]**Tech**: Node.js, Express, MongoDB, React[cite: 25].
+- Real-time communication system using **Socket.IO** and **Groq AI** for instant medical consultation.
+- **Tech**: Node.js, Express, MongoDB, React.
 
 ---
 
 ### 🏆 Certifications
-- [cite_start]**The Complete Full-Stack Web Development Bootcamp** (Udemy) [cite: 36, 37]
-- [cite_start]**Programming in Modern C++** (NPTEL) [cite: 38, 39]
-- [cite_start]**Salesforce Agentblazer Champion** [cite: 14]
+- **The Complete Full-Stack Web Development Bootcamp** (Udemy)
+- **Programming in Modern C++** (NPTEL)
+- **Salesforce Agentblazer Champion**
 
 <p align="right">
   <img src="https://visitcount.itsvg.in/api?id=ashrayshetty001&icon=0&color=0" alt="Visitor Count" />
