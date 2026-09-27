@@ -100,15 +100,15 @@ Software Engineer specializing in building scalable web architectures, real-time
 ### 📊 Performance & Stats
 
 <div align="center">
-  <img src="https://leetcode.card.workers.dev/Ashray_shetty?theme=dark&font=baloo&extension=null" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Ashray_shetty?theme=dark&font=baloo" alt="LeetCode Stats" />
   
   <br/><br/>
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ashrayshetty001&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashrayshetty001&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
   
   <br/><br/>
   
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ashrayshetty001&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrayshetty001&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
 </div>
 
 ---
@@ -120,5 +120,5 @@ Software Engineer specializing in building scalable web architectures, real-time
 - **Salesforce Agentblazer Champion**
 
 <p align="right">
-  <img src="https://visitcount.itsvg.in/api?id=ashrayshetty001&icon=0&color=0" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=ashrayshetty001&color=blueviolet&style=flat-square" alt="Visitor Count" />
 </p>
