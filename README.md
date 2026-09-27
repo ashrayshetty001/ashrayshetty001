@@ -104,11 +104,15 @@ Software Engineer specializing in building scalable web architectures, real-time
   
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ashrayshetty001&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=ashrayshetty001&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
   
   <br/><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrayshetty001&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashrayshetty001&theme=tokyonight" alt="Top Languages" />
+  
+  <br/><br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashrayshetty001&theme=tokyonight" alt="GitHub Profile Stats" />
 </div>
 
 ---
